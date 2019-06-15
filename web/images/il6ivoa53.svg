@@ -1,0 +1,279 @@
+<svg version="1.1" x="0" y="0" id="il6ivoa53" diagram-revision="7" width="1005" height="515.5" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Class-il6m6fgw-ko67" transform="translate(5,5)">
+    <desc>root/umlClass/class?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="259.05" height="31" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="32" width="259.05" height="142" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="174" width="259.05" height="75" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="259.05" height="248" fill="#ffffff" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 1 32 L 260.05 32 M 1 174 L 260.05 174 " fill="none" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="29.25" height="16.75" transform="translate(114.9,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">User</tspan>
+      </text>
+      <text x="0" y="0" width="116.45" height="16.75" transform="translate(6,35)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ firstname : String</tspan>
+      </text>
+      <text x="0" y="0" width="110" height="16.75" transform="translate(6,51.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ lastname: String</tspan>
+      </text>
+      <text x="0" y="0" width="112.1" height="16.75" transform="translate(6,68.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- username: String</tspan>
+      </text>
+      <text x="0" y="0" width="110.85" height="16.75" transform="translate(6,85.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- password: String</tspan>
+      </text>
+      <text x="0" y="0" width="56.8" height="16.75" transform="translate(6,102)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Age: Int</tspan>
+      </text>
+      <text x="0" y="0" width="97.8" height="16.75" transform="translate(6,118.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Gender: String</tspan>
+      </text>
+      <text x="0" y="0" width="63.1" height="16.75" transform="translate(6,135.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"># cash: Int</tspan>
+      </text>
+      <text x="0" y="0" width="106.5" height="16.75" transform="translate(6,152.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+state: UserState</tspan>
+      </text>
+      <text x="0" y="0" width="215.1" height="16.75" transform="translate(6,177)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ login( username, password) : void</tspan>
+      </text>
+      <text x="0" y="0" width="247.05" height="16.75" transform="translate(6,193.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ getname( username, password) : string</tspan>
+      </text>
+      <text x="0" y="0" width="223.1" height="16.75" transform="translate(6,210.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- getcash ( username, password) : int</tspan>
+      </text>
+      <text x="0" y="0" width="3.6" height="16.75" transform="translate(6,227.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"></tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Class-il6m6fgw-ko73" transform="translate(400,14.75)">
+    <desc>root/umlClass/class?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="285.9" height="31" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="32" width="285.9" height="108.5" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="140.5" width="285.9" height="91.75" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="285.9" height="231.25" fill="#ffffff" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 1 32 L 286.9 32 M 1 140.5 L 286.9 140.5 " fill="none" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="64.2" height="16.75" transform="translate(110.85,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">Load Cash</tspan>
+      </text>
+      <text x="0" y="0" width="112.1" height="16.75" transform="translate(6,35)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- username: String</tspan>
+      </text>
+      <text x="0" y="0" width="110.85" height="16.75" transform="translate(6,51.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- password: String</tspan>
+      </text>
+      <text x="0" y="0" width="122.1" height="16.75" transform="translate(6,68.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Debit_card_no: Int</tspan>
+      </text>
+      <text x="0" y="0" width="97.8" height="16.75" transform="translate(6,85.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Gender: String</tspan>
+      </text>
+      <text x="0" y="0" width="63.1" height="16.75" transform="translate(6,102)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"># cash: Int</tspan>
+      </text>
+      <text x="0" y="0" width="191.65" height="16.75" transform="translate(6,118.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+Transaction: TransactionState</tspan>
+      </text>
+      <text x="0" y="0" width="215.1" height="16.75" transform="translate(6,143.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ login( username, password) : void</tspan>
+      </text>
+      <text x="0" y="0" width="273.9" height="16.75" transform="translate(6,160.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;" xml:space="preserve">- loadcash (  username, password,cash) : void</tspan>
+      </text>
+      <text x="0" y="0" width="3.6" height="16.75" transform="translate(6,177)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"></tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Enumeration-il6m6fgw-ko75" transform="translate(15,300.25)">
+    <desc>root/umlClass/enumClass?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="201" height="41.5" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="42.5" width="201" height="84.389404296875" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="201" height="125.889404296875" fill="#ffffff" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 1 42.5 L 202 42.5 " fill="none" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="112.8" height="16.75" transform="translate(44.1,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">&lt;&lt;Enumeration&gt;&gt;</tspan>
+      </text>
+      <text x="0" y="0" width="61.95" height="16.75" transform="translate(69.5,20.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">UserState</tspan>
+      </text>
+      <text x="0" y="0" width="37.9" height="16.75" transform="translate(6,45.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- New</tspan>
+      </text>
+      <text x="0" y="0" width="74.4" height="16.75" transform="translate(6,62.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Registered</tspan>
+      </text>
+      <text x="0" y="0" width="48.2" height="16.75" transform="translate(6,79)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Active</tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Enumeration-il6m6fgw-ko76" transform="translate(735,49.25)">
+    <desc>root/umlClass/enumClass?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="201" height="41.5" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="42.5" width="201" height="84.389404296875" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="201" height="125.889404296875" fill="#ffffff" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 1 42.5 L 202 42.5 " fill="none" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="112.8" height="16.75" transform="translate(44.1,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">&lt;&lt;Enumeration&gt;&gt;</tspan>
+      </text>
+      <text x="0" y="0" width="106.3" height="16.75" transform="translate(47.35,20.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">TransactionState</tspan>
+      </text>
+      <text x="0" y="0" width="73.1" height="16.75" transform="translate(6,45.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Successful</tspan>
+      </text>
+      <text x="0" y="0" width="89.7" height="16.75" transform="translate(6,62.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Unsuccessful</tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Class-il6m6fgw-ko77" transform="translate(405,275.5)">
+    <desc>root/umlClass/class?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="281.9" height="31" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="32" width="281.9" height="142" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="174" width="281.9" height="58.25" fill="none" stroke="#35a6e2" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="281.9" height="231.25" fill="#ffffff" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+        <path d="M 1 32 L 282.9 32 M 1 174 L 282.9 174 " fill="none" stroke="#35a6e2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="96.75" height="16.75" transform="translate(92.55,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;font-weight:bold;">Bill Transaction</tspan>
+      </text>
+      <text x="0" y="0" width="116.45" height="16.75" transform="translate(6,35)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ firstname : String</tspan>
+      </text>
+      <text x="0" y="0" width="110" height="16.75" transform="translate(6,51.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ lastname: String</tspan>
+      </text>
+      <text x="0" y="0" width="112.1" height="16.75" transform="translate(6,68.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- username: String</tspan>
+      </text>
+      <text x="0" y="0" width="110.85" height="16.75" transform="translate(6,85.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- password: String</tspan>
+      </text>
+      <text x="0" y="0" width="56.8" height="16.75" transform="translate(6,102)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Age: Int</tspan>
+      </text>
+      <text x="0" y="0" width="97.8" height="16.75" transform="translate(6,118.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">- Gender: String</tspan>
+      </text>
+      <text x="0" y="0" width="63.1" height="16.75" transform="translate(6,135.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"># cash: Int</tspan>
+      </text>
+      <text x="0" y="0" width="191.65" height="16.75" transform="translate(6,152.25)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+Transaction: TransactionState</tspan>
+      </text>
+      <text x="0" y="0" width="215.1" height="16.75" transform="translate(6,177)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">+ login( username, password) : void</tspan>
+      </text>
+      <text x="0" y="0" width="269.9" height="16.75" transform="translate(6,193.75)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;" xml:space="preserve">- paycash (  username, password,cash) : void</tspan>
+      </text>
+      <text x="0" y="0" width="3.6" height="16.75" transform="translate(6,210.5)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#4b4b4b;"></tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Connector-il6m6fgw-ko78" transform="translate(-245,-440)">
+    <g id="graphics">
+      
+      <path d="M 510 570 L 578.025 570 L 578.025 569.75 L 645 569.75 " fill="none" stroke="#f6902a" stroke-width="1.5" mask="url(#TextboxMask-Connector-il6m6fgw-ko78)"/>
+    </g>
+    <text x="0" y="0" width="16.95" height="23.35" transform="translate(525,558.3)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">1</tspan>
+    </text>
+    <text x="0" y="0" width="27.75" height="23.35" transform="translate(602.25,558.05)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-il6m6fgw-ko78">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="16.95" height="23.35" transform="translate(525,558.3)"/>
+      <rect x="0" y="0" width="27.75" height="23.35" transform="translate(602.25,558.05)"/>
+    </mask>
+  </g>
+  <g id="Connector-il6m6fgw-ko79" transform="translate(-245,-440)">
+    <g id="graphics">
+      
+      <path d="M 510 645 L 580.525 645 L 580.525 830.5 L 650 830.5 " fill="none" stroke="#f6902a" stroke-width="1.5" mask="url(#TextboxMask-Connector-il6m6fgw-ko79)"/>
+    </g>
+    <text x="0" y="0" width="12.9" height="51.35" transform="translate(524.95,619.3)">
+      <tspan x="6.4" y="13.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;"></tspan>
+      <tspan x="2.95" y="28.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">1</tspan>
+    </text>
+    <text x="0" y="0" width="27.75" height="23.35" transform="translate(607.25,818.8)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-il6m6fgw-ko79">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="12.9" height="51.35" transform="translate(524.95,619.3)"/>
+      <rect x="0" y="0" width="27.75" height="23.35" transform="translate(607.25,818.8)"/>
+    </mask>
+  </g>
+  <g id="Simple Class-il6m6fgw-ko80" transform="translate(770,246)">
+    <desc>root/umlClass/activeClass?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        
+        <rect x="1" y="1" width="228" height="45.220703125" fill="none" stroke="#ffffff" stroke-width="2" stroke-opacity="0" stroke-linejoin="round" stroke-linecap="round"/>
+        <rect x="1" y="1" width="228" height="45.220703125" fill="#35a6e2" stroke="#ffffff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+      <text x="0" y="0" width="137.6" height="16.75" transform="translate(45.2,4)">
+        <tspan x="0" y="13.920019531249999" style="font-family:Lato;font-size:14px;fill:#ffffff;font-weight:bold;">Transaction Complete</tspan>
+      </text>
+    </g>
+  </g>
+  <g id="Connector-il6m6fgw-ko81" transform="translate(-245,-440)">
+    <g id="graphics">
+      
+      <path d="M 935 639.75 L 973.95 639.75 L 973.95 711 L 1015 711 " fill="none" stroke="#f6902a" stroke-width="1.5" mask="url(#TextboxMask-Connector-il6m6fgw-ko81)"/>
+    </g>
+    <text x="0" y="0" width="27.65" height="23.35" transform="translate(949.95,628.05)">
+      <tspan x="4.9" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <text x="0" y="0" width="27.75" height="23.35" transform="translate(972.25,699.3)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-il6m6fgw-ko81">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="27.65" height="23.35" transform="translate(949.95,628.05)"/>
+      <rect x="0" y="0" width="27.75" height="23.35" transform="translate(972.25,699.3)"/>
+    </mask>
+  </g>
+  <g id="Connector-il6m6fgw-ko82" transform="translate(-245,-440)">
+    <g id="graphics">
+      
+      <path d="M 935 830.5 L 1130 830.5 L 1130 731 " fill="none" stroke="#f6902a" stroke-width="1.5" mask="url(#TextboxMask-Connector-il6m6fgw-ko82)"/>
+    </g>
+    <text x="0" y="0" width="27.75" height="23.35" transform="translate(950,818.8)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <text x="0" y="0" width="27.75" height="23.35" transform="translate(1116.1,746)">
+      <tspan x="4.95" y="15.91015625" style="font-family:Lato;font-size:12px;fill:#000000;font-weight:bold;">0..*</tspan>
+    </text>
+    <mask id="TextboxMask-Connector-il6m6fgw-ko82">
+      <rect x="0" y="0" width="1500" height="1500" style="fill:white;"/>
+      <rect x="0" y="0" width="27.75" height="23.35" transform="translate(950,818.8)"/>
+      <rect x="0" y="0" width="27.75" height="23.35" transform="translate(1116.1,746)"/>
+    </mask>
+  </g>
+</svg>
